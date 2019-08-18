@@ -29,6 +29,11 @@ img{
     height:auto;
 }
 
+#content{
+    width:600px;
+    margin: auto;
+}
+
 h3{
     font-size:20px;
     text-align:center;
